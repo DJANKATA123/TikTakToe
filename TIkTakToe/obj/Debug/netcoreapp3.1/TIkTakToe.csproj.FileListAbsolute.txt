@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\TIkTakToe\TIkTakToe\bin\Debug\netcoreapp3.1\TIkTakToe.exe
+C:\Users\User\Desktop\TIkTakToe\TIkTakToe\bin\Debug\netcoreapp3.1\TIkTakToe.deps.json
+C:\Users\User\Desktop\TIkTakToe\TIkTakToe\bin\Debug\netcoreapp3.1\TIkTakToe.runtimeconfig.json
+C:\Users\User\Desktop\TIkTakToe\TIkTakToe\bin\Debug\netcoreapp3.1\TIkTakToe.runtimeconfig.dev.json
+C:\Users\User\Desktop\TIkTakToe\TIkTakToe\bin\Debug\netcoreapp3.1\TIkTakToe.dll
+C:\Users\User\Desktop\TIkTakToe\TIkTakToe\bin\Debug\netcoreapp3.1\TIkTakToe.pdb
+C:\Users\User\Desktop\TIkTakToe\TIkTakToe\obj\Debug\netcoreapp3.1\TIkTakToe.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TIkTakToe\TIkTakToe\obj\Debug\netcoreapp3.1\TIkTakToe.Form1.resources
+C:\Users\User\Desktop\TIkTakToe\TIkTakToe\obj\Debug\netcoreapp3.1\TIkTakToe.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TIkTakToe\TIkTakToe\obj\Debug\netcoreapp3.1\TIkTakToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TIkTakToe\TIkTakToe\obj\Debug\netcoreapp3.1\TIkTakToe.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TIkTakToe\TIkTakToe\obj\Debug\netcoreapp3.1\TIkTakToe.AssemblyInfo.cs
+C:\Users\User\Desktop\TIkTakToe\TIkTakToe\obj\Debug\netcoreapp3.1\TIkTakToe.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TIkTakToe\TIkTakToe\obj\Debug\netcoreapp3.1\TIkTakToe.dll
+C:\Users\User\Desktop\TIkTakToe\TIkTakToe\obj\Debug\netcoreapp3.1\TIkTakToe.pdb
+C:\Users\User\Desktop\TIkTakToe\TIkTakToe\obj\Debug\netcoreapp3.1\TIkTakToe.genruntimeconfig.cache
